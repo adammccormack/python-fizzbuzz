@@ -10,8 +10,6 @@ def fizzbuzz(number):
         print('Fizz')
     else:
         print(i)
-   
-fizzbuzz(20)
         
         
 
